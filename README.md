@@ -1,9 +1,8 @@
 # Desne Matrix Multiplication Comparison
  A comparison of average comutation time for dense matrix multiplication in Scala without Breeze, Scala with Breeze and Apache Spark.
 
- | First Header  | Second Header |
+ | Programming environment  | Average computation time (ms) |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Scala (without Breeze)  | 1774.48  |
+| Scala (with Breeze)  | 413.82  |
+| Apache Spark  | 642.56  |
